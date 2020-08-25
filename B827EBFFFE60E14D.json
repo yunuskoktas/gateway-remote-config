@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE60E14D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.21986,
+    "ref_longitude": 8.68596,
+    "ref_altitude": 465,
+    "contact_email": "loralsfm@gmail.com",
+    "description": "LoraWAN Gateway ZHAW Grüental"
+  }
+}
